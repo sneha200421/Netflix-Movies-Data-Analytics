@@ -46,13 +46,20 @@ Each question is supported with clear visualizations and data-driven insights.
 
 ## 📸 Visualizations
 
+Below are some of the visual insights generated during the analysis:
 
-Example:
-```markdown
-![Genre Distribution](most_frequent_genre.png)
-![Movies by Year](release_date_distribution.png)
-![Top Rated Movies](votes_distribution.png)
-```
+### 🎬 Distribution of Movie Release Dates
+![Release Date Distribution](release_date_distribution.png)
+
+### 🎭 Most Frequent Genres
+![Most Frequent Genres](most_frequent_genre.png)
+
+### 🎭 Votes Distribution
+![Votes Distribution](votes_distribution.png)
+
+
+
+
 ## ⚙️ How to Run the Project
 1. Clone this repository:
    ```bash
